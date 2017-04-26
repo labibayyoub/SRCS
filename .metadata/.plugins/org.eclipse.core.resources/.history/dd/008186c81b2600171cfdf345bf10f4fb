@@ -1,0 +1,5 @@
+package com.upmc.enterprise.ejb;
+
+public interface Cart {
+
+}

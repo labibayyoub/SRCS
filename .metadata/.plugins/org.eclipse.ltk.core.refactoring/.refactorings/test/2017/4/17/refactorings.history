@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;fr.upmc.helloejb&apos; to &apos;fr.upmc.helloEJB.clients&apos;&#x0A;- Original project: &apos;test&apos;&#x0A;- Original element: &apos;test/src/fr.upmc.helloejb&apos;&#x0A;- Renamed element: &apos;test/src/fr.upmc.helloEJB.clients&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;fr.upmc.helloejb&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;fr.upmc.helloejb" name="fr.upmc.helloEJB.clients" qualified="false" references="true" stamp="1493244492346" textual="false" version="1.0"/>
+</session>

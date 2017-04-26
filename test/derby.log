@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 21 23:17:56 CEST 2017:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) : instance a816c00e-015b-9260-e8ef-000006dff5b0 
+dans le répertoire de base de données /home/labibayyoub/javaEE/glassfish4/javadb/lib/firstdb avec le chargeur de classe sun.misc.Launcher$AppClassLoader@73d16e93
+Chargé de file:/home/labibayyoub/javaEE/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/labibayyoub/workspace-jee/test
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-4-amd64
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''

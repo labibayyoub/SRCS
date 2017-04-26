@@ -1,0 +1,4 @@
+#GlassFish 3
+#Thu Apr 27 00:53:18 CEST 2017
+org.eclipse.jst.jee.server\:StatefulEJBEAR=/home/labibayyoub/javaEE/glassfish4/glassfish/domains/domain1/eclipseApps/StatefulEJBEAR
+org.eclipse.jst.jee.server\:HelloApplication=/home/labibayyoub/javaEE/glassfish4/glassfish/domains/domain1/eclipseApps/HelloApplication

@@ -1,0 +1,7 @@
+package com.upmc.enterprise.ejb;
+
+import Cart.java;
+
+public class CartBean extends java {
+
+}

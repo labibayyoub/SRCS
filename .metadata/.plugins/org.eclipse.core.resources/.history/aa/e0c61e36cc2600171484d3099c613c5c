@@ -1,0 +1,15 @@
+package fr.upmc.database;
+
+import java.sql.*;
+
+public class TestDB {
+
+	public static void main(String[] args) {
+		String driver = "org.apache.derby.jdbc.EmbeddedDriver";
+		String dbName="jdbcDemoDB";
+		String connectionURL = "jdbc:derby:" + dbName + ";";
+		
+
+	}
+
+}

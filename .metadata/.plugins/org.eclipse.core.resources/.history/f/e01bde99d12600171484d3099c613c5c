@@ -1,0 +1,24 @@
+package fr.upmc.database;
+
+import java.sql.*;
+import java.util.Properties;
+
+public class TestDB {
+
+	public static void main(String[] args) throws SQLException {
+		//String driver = "org.apache.derby.jdbc.EmbeddedDriver";
+		String dbName="firstdb";
+		String connectionURL = "jdbc:derby:/home/labibayyoub/MyDB;create=true";
+		Connection conn = DriverManager.getConnection(connectionURL);
+		Statement s = conn.createStatement();
+		ResultSet res = s.executeQuery("select * from ELEVE;");
+		while(res.next()){
+			System.out.println(res.getString(0));
+		}
+		
+		
+		
+
+	}
+
+}

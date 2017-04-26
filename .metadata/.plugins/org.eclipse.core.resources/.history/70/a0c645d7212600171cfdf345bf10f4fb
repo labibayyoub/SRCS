@@ -1,0 +1,7 @@
+package com.upmc.enterprise.ejb;
+
+
+
+public class CartBean implements Cart {
+
+}

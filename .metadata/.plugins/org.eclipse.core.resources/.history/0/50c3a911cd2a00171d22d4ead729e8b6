@@ -1,0 +1,15 @@
+package fr.upmc.helloEJB.clients;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+import beans.SayHelloRemote;
+
+public class HelloClient {
+	public static void main(String[] args) {
+		
+		Context con = new InitialContext();
+		SayHelloRemote = (SayHelloRemote) con.lookup("java:global/HelloApplication/HelloEJB/SayHello!beans.SayHelloRemote");
+	}
+
+}
